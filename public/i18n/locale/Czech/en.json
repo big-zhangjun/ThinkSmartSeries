@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Domů"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "Nejčastější dotazy"
+		}
+	],
+    "loading": "Nezapomeňte na zařízení přilepit samolepku s QR kódem.",
+	"language": "Čeština",
+	"disabled": "již brzy.",
+	"footer": [
+		"Instalační příručka (MTR)",
+		"Instalační příručka (Zoom)",
+		"Příručka pro údržbu hardwaru"
+	],
+	"home": {
+		"title": "Vítejte v ThinkSmart One",
+		"nav": ["Microsoft Teams Rooms (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Přehled ",
+			"Připojení k plánované schůzce",
+			"Vytvoření schůzky",
+			"Sdílení obsahu"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Kalendář místnosti",
+					"content": "Zobrazuje plánované schůzky."
+				},
+				{
+					"title": "Zahájit schůzku",
+					"content": "Spustí se nová schůzka."
+				},
+				{
+					"title": "Sdílet",
+					"content": "Zahájí nebo ukončí sdílení obsahu."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Název konferenční místnosti",
+					"content": "Slouží k vyhledání e-mailu konferenční místnosti."
+				},
+				{
+					"title": "Volat",
+					"content": "Zahájí hovor."
+				},
+				{
+					"title": "Další možnosti",
+					"content": "Zobrazí se další informace a nastavení."
+				},
+				{
+					"title": "Rozpoznávání řeči",
+					"content": "Zapíná nebo vypíná rozpoznávání řeči."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "1. krok",
+				"content1": "Rozešlete účastníkům pozvánku na jednání a e-mailovou adresu konferenční místnosti (účet MTR).",
+				"content2": "Když účastníci pozvánku přijmou, schůzka se brzy objeví v kalendáři místnosti."
+			},
+			{
+				"title": "2. krok",
+				"content1": "Pro připojení ke schůzce vyberte možnost <b>\"Připojit se\"</b>."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "1. krok",
+				"content1": "Pro vytvoření nové schůzky vyberte možnost <b>\"Zahájit schůzku\"</b> na domovské obrazovce ThinkSmart Controller."
+			},
+			{
+				"title": "2. krok",
+				"content1": "Napište jméno do vyhledávání a vyberte, které účastníky chcete pozvat."
+			},
+			{
+				"title": "3. krok",
+				"content1": "Pro odeslání pozvánky na schůzku vyberte možnost <b>\"Požádat o připojení\"</b>."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "1. krok",
+				"content1": "Zapojte počítač do vstupního konektoru HDMI na zařízení ThinkSmart One. Vaše obrazovka se bude automaticky sdílet s přítomnými účastníky na místě."
+			},
+			{
+				"title": "2. krok",
+				"content1": "Připojte se ke schůzce pomocí ThinkSmart Controller a kliknutím na",
+				"content2": "spustíte sdílení s účastníky přítomnými na místě i s online účastníky."
+			},
+			{
+				"title": "3. krok",
+				"content1": "Když kliknete na",
+				"content2": "a odpojíte počítač od vstupního konektoru HDMI, sdílení obrazovky ukončíte."
+			}
+		]
+	},
+	"faqs": {
+		"title": "Časté dotazy týkající se ThinkSmart One",
+		"content1": "Zde najdete některé často kladené dotazy. Další informace naleznete na webových stránkách",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "nebo se obraťte na odborného pracovníka podpory Lenovo na webu ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Jak najít příručku k instalaci hardwaru nebo softwaru?",
+				"content": ["Pro nastavení hardwaru a softwaru přejděte na stránku:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> nebo si přečtěte pokyny uvedené dole na této stránce."]
+			},
+			{
+				"title": "Můžu do ThinkSmart One nainstalovat další videokonferenční aplikace?",
+				"content": ["Ne. V ThinkSmart One lze používat pouze aplikace Microsoft Teams Rooms nebo Zoom Rooms. Nedoporučujeme do ThinkSmart One instalovat žádné další videokonferenční ani jiné aplikace."]
+			},
+            {
+                "title": "Jak přepínat mezi účtem MTR a účtem administrátora?",
+                "content": [
+                    "Pokud chcete přepnout z účtu MTR na účet administrátora:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Přejděte na stránku Nastavení MTR.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Vyberte možnost <b>Nastavení Windows</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Vyberte <b>Administrátor</b> a znovu zadejte heslo administrátora.</p><br />",
+                    "Pokud chcete přepnout z účtu administrátora na účet MTR:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Otevřete nabídku <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Vyberte možnost <b>Administrátor</b> → <b>Odhlásit</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Vyberte <b>Skype</b> → <b>Přihlásit</b>.</p>"
+                ]
+            },
+            {
+                "title": "Jak přepínat mezi účtem Zoom Rooms a účtem administrátora?",
+                "content": [
+                    "Pokud chcete přepnout z účtu Zoom Rooms na účet administrátora:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0V hlavní nabídce vyberte <b>Nastavení</b> → <b>Místnost</b> → <b>Nastavení Windows</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Zadejte heslo místnosti a vyberte možnost <b>Pokračovat</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Vyberte <b>ZoomRoomsAdmin</b> a přihlaste se pomocí hesla administrátora.</p><br />",
+                    "Pokud chcete přepnout z účtu administrátora na účet Zoom Rooms:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Otevřete nabídku <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Vyberte možnost <b>ZoomRoomsAdmin</b> → <b>Odhlásit</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Vyberte <b>ZoomRooms</b> → <b>Přihlásit</b>.</p>"
+                ]
+            }
+		]
+	}
+}

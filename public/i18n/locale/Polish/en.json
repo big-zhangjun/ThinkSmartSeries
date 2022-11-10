@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Strona główna"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "Najczęściej zadawane pytania"
+		}
+	],
+    "loading": "Nie zapomnij przykleić naklejki QR na urządzeniu.",
+	"language": "Polski",
+	"disabled": "już wkrótce.",
+	"footer": [
+		"Podręcznik wdrażania (MTR)",
+		"Podręcznik wdrażania (Zoom)",
+		"Podręcznik konserwacji sprzętu"
+	],
+	"home": {
+		"title": "Witamy w aplikacji ThinkSmart One",
+		"nav": ["Microsoft Teams Room (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Informacje ogólne ",
+			"Dołącz do zaplanowanego spotkania",
+			"Utwórz spotkanie",
+			"Udostępnij zawartość"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Kalendarz pokoju",
+					"content": "Pokaż zaplanowane spotkania."
+				},
+				{
+					"title": "Spotkaj się",
+					"content": "Rozpocznij nowe spotkanie."
+				},
+				{
+					"title": "Udostępnij",
+					"content": "Rozpocznij lub zakończ udostępnianie zawartości."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Nazwa pokoju konferencyjnego",
+					"content": "Służy do wyszukiwania skrzynek e-mail pokoi konferencyjnych."
+				},
+				{
+					"title": "Zadzwoń",
+					"content": "Nawiąż połączenie telefoniczne."
+				},
+				{
+					"title": "Więcej",
+					"content": "Wyświetl więcej informacji i ustawień."
+				},
+				{
+					"title": "Rozpoznawanie głosu",
+					"content": "Włącz lub wyłącz funkcję rozpoznawania głosu."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "Etap 1",
+				"content1": "Wyślij zaproszenie na spotkanie do uczestników oraz na adres e-mail pokoju konferencyjnego (konto MTR).",
+				"content2": "Zaakceptowane spotkanie po krótkim czasie pojawia się w kalendarzu pokoju."
+			},
+			{
+				"title": "Etap 2",
+				"content1": "Wybierz opcję <b>„Dołącz”</b>, aby dołączyć do spotkania."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "Etap 1",
+				"content1": "Wybierz opcję <b>„Spotkaj się”</b> na ekranie głównym ThinkSmart Controller, aby utworzyć nowe spotkanie."
+			},
+			{
+				"title": "Etap 2",
+				"content1": "Wpisz nazwę do wyszukania i wybierz osoby, które chcesz zaprosić."
+			},
+			{
+				"title": "Etap 3",
+				"content1": "Wybierz opcję <b>„Poproś o dołączenie”</b>, aby wysłać zaproszenie na spotkanie."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "Etap 1",
+				"content1": "Podłącz komputer do złącza wejścia HDMI urządzenia ThinkSmart One. Ekran zostanie automatycznie udostępniony uczestnikom znajdujących się na miejscu."
+			},
+			{
+				"title": "Etap 2",
+				"content1": "Dołącz do spotkania na urządzeniu ThinkSmart Controller, a następnie kliknij",
+				"content2": "w celu rozpoczęcia udostępniania zawartości uczestnikom znajdującym się na miejscu oraz uczestnikom online."
+			},
+			{
+				"title": "Etap 3",
+				"content1": "Kliknij",
+				"content2": "i odłącz się od złącza wejścia HDMI, aby zakończyć udostępnianie."
+			}
+		]
+	},
+	"faqs": {
+		"title": "ThinkSmart One — często zadawane pytania",
+		"content1": "W tej sekcji znajdują się często zadawane pytania. Aby uzyskać więcej informacji, odwiedź stronę",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "lub skontaktuj się ze specjalistą z działu pomocy technicznej Lenovo na stronie ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Jak wyszukać podręcznik wdrażania dotyczący sprzętu lub oprogramowania?",
+				"content": ["Opis konfiguracji sprzętu i oprogramowania znajdziesz na stronie:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a>. Możesz także zapoznać się z podręcznikiem w sposób opisany u dołu tej strony."]
+			},
+			{
+				"title": "Czy mogę zainstalować na urządzeniu ThinkSmart One inne aplikacje do prowadzenia spotkań?",
+				"content": ["Nie. Urządzenie ThinkSmart One zostało opracowane wyłącznie do obsługi funkcji Microsoft Teams Room lub Zoom Rooms. Nie zaleca się instalowania na urządzeniu ThinkSmart One żadnych innych aplikacji do prowadzenia spotkań ani innych typów aplikacji."]
+			},
+            {
+                "title": "Jak przełączać się między kontem MTR a kontem administratora?",
+                "content": [
+                    "Aby przełączyć się z konta MTR na konto administratora:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Przejdź na stronę ustawień MTR.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Wybierz opcję <b>Ustawienia systemu Windows</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Wybierz opcję <b>Administrator</b> i wprowadź hasło administratora.</p><br />",
+                    "Aby przełączyć się z konta administratora na konto MTR:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Otwórz menu <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Wybierz kolejno opcje <b>Administrator</b> → <b>Wyloguj</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Wybierz kolejno opcje <b>Skype</b> → <b>Zaloguj</b>.</p>"
+                ]
+            },
+            {
+                "title": "Jak przełączać się między kontem Zoom Rooms a kontem administratora?",
+                "content": [
+                    "Aby przełączyć się z konta Zoom Rooms na konto administratora:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Z menu głównego wybierz kolejno pozycje <b>Ustawienia</b> → <b>Pokój</b> → <b>Ustawienia systemu Windows</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Wprowadź kod dostępu dla pokoju i wybierz opcję <b>Kontynuuj</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Wybierz opcję <b>ZoomRoomsAdmin</b> i zaloguj się, podając hasło administratora.</p><br />",
+                    "Aby przełączyć się z konta administratora na konto Zoom Rooms:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Otwórz menu <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Wybierz kolejno opcje <b>ZoomRoomsAdmin</b> → <b>Wyloguj</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Wybierz kolejno opcje <b>ZoomRooms</b> → <b>Zaloguj</b>.</p>"
+                ]
+            }
+		]
+	}
+}

@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Početak"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "Česta pitanja"
+		}
+	],
+    "loading": "Ne zaboravite da stavite QR nalepnicu na svoj uređaj.",
+	"language": "Srpski",
+	"disabled": "uskoro.",
+	"footer": [
+		"Vodič za implementaciju (MTR)",
+		"Vodič za implementaciju (Zoom)",
+		"Uputstvo za održavanje hardvera"
+	],
+	"home": {
+		"title": "Dobro došli u ThinkSmart One",
+		"nav": ["Microsoft Teams Rooms (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Pregled ",
+			"Pridružite se zakazanom sastanku",
+			"Kreirajte sastanak",
+			"Deljenje sadržaja"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Kalendar sobe",
+					"content": "Prikaz zakazanih sastanaka."
+				},
+				{
+					"title": "Sastanak",
+					"content": "Započnite novi sastanak."
+				},
+				{
+					"title": "Deli",
+					"content": "Pokretanje ili zaustavljanje deljenja<br />sadržaja."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Naziv sobe za sastanke",
+					"content": "Koristi se za traženje e-pošte u sobi<br />za sastanke."
+				},
+				{
+					"title": "Poziv",
+					"content": "Uputite telefonski poziv."
+				},
+				{
+					"title": "Više",
+					"content": "Prikažite dodatne informacije i postavke."
+				},
+				{
+					"title": "Prepoznavanje glasa",
+					"content": "Omogućite ili onemogućite prepoznavanje glasa."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "Korak 1",
+				"content1": "Pošaljite pozivnicu za sastanak učesnicima i na adresu e-pošte sobe za sastanke (nalog za MTR).",
+				"content2": "Kada sastanak bude prihvaćen, pojaviće se u kalendaru sobe."
+			},
+			{
+				"title": "Korak 2",
+				"content1": "Izaberite <b>\"Pridruži se\"</b> da biste se pridružili sastanku."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "Korak 1",
+				"content1": "Izaberite <b>\"Sastanak\"</b> na početnom ekranu kontrolera ThinkSmart kako biste kreirali novi sastanak."
+			},
+			{
+				"title": "Korak 2",
+				"content1": "Upišite ime za pretraživanje i izaberite osobe koje želite da pozovete."
+			},
+			{
+				"title": "Korak 3",
+				"content1": "Izaberite <b>\"Zahtev za pridruživanje\"</b> kako biste poslali pozivnicu za sastanak."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "Korak 1",
+				"content1": "Povežite računar sa ulaznim HDMI priključkom na uređaju ThinkSmart One. Vaš ekran se automatski deli sa svim učesnicima na lokaciji."
+			},
+			{
+				"title": "Korak 2",
+				"content1": "Pridružite se sastanku na kontroleru ThinkSmart i kliknite na",
+				"content2": "da biste pokrenuli razmenu podataka sa učesnicima na lokaciji i na mreži."
+			},
+			{
+				"title": "Korak 3",
+				"content1": "Kliknite na",
+				"content2": "i otkačite ulazni HDMI priključak da biste prekinuli deljenje."
+			}
+		]
+	},
+	"faqs": {
+		"title": "Najčešća pitanja o uređaju ThinkSmart One",
+		"content1": "Ovde su kao referenca navedena neka često postavljana pitanja. Dodatne informacije potražite na veb stranici",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": ", ili se obratite profesionalnom stručnjaku za podršku kompanije Lenovo na veb stranici ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Kako pronaći vodič za implementaciju hardvera ili softvera?",
+				"content": ["Za uputstva za postavljanje hardvera i softvera posetite veb stranicu:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> ili pročitajte vodič naveden na dnu ove stranice."]
+			},
+			{
+				"title": "Mogu li na uređaj ThinkSmart One da instaliram druge aplikacije za sastanke?",
+				"content": ["Ne. Uređaj ThinkSmart One osmišljen je samo za Microsoft Teams Rooms ili Zoom Rooms. Ne preporučuje se instaliranje drugih aplikacija za sastanke ili drugih vrsta aplikacija na uređaj ThinkSmart One."]
+			},
+            {
+                "title": "Kako da se prebacujem između naloga za MTR i administratorskog naloga?",
+                "content": [
+                    "Za prebacivanje sa MTR naloga na administratorski nalog:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Idite na stranicu sa postavkama za MTR.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Izaberite <b>Windows postavke</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Izaberite <b>Administrator</b> i unesite administratorsku lozinku.</p><br />",
+                    "Za prebacivanje s administratorskog naloga na nalog za MTR:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Otvorite meni <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Izaberite <b>Administrator</b> → <b>Odjava</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Izaberite <b>Skype</b> → <b>Prijava</b>.</p>"
+                ]
+            },
+            {
+                "title": "Kako da se prebacujem između naloga za Zoom Rooms i administratorskog naloga?",
+                "content": [
+                    "Za prebacivanje sa naloga za Zoom Rooms na administratorski nalog:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0U glavnom meniju izaberite <b>Postavke</b> → <b>Soba</b> → <b>Windows postavke</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Unesite lozinku sobe i izaberite <b>Nastavi</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Izaberite režim <b>ZoomRoomsAdmin</b> i prijavite se sa administratorskom lozinkom.</p><br />",
+                    "Za prebacivanje s administratorskog naloga na nalog za Zoom Rooms:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Otvorite meni <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Izaberite <b>ZoomRoomsAdmin</b> → <b>Odjava</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Izaberite <b>ZoomRooms</b> → <b>Prijava</b>.</p>"
+                ]
+            }
+		]
+	}
+}

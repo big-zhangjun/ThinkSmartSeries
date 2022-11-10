@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Giriş"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "SSS"
+		}
+	],
+    "loading": "Makinenize QR etiketi yapıştırmayı unutmayın.",
+	"language": "Türkçe",
+	"disabled": "çok yakında.",
+	"footer": [
+		"Dağıtım Kılavuzu (MTR)",
+		"Dağıtım Kılavuzu (Zoom)",
+		"Donanım Bakımı Elkitabı"
+	],
+	"home": {
+		"title": "ThinkSmart One'a hoş geldiniz",
+		"nav": ["Microsoft Teams Odaları (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Genel bakış ",
+			"Zamanlanmış bir toplantıya katılma",
+			"Toplantı oluşturulması",
+			"İçeriğin paylaşılması"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Oda takvimi",
+					"content": "Zamanlanmış toplantıları gösterin."
+				},
+				{
+					"title": "Toplantı Yap",
+					"content": "Yeni bir toplantı başlatın."
+				},
+				{
+					"title": "Paylaş",
+					"content": "İçerik paylaşımını başlatın veya durdurun."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Konferans odası adı",
+					"content": "Konferans odası e-postasını aramak için kullanılır."
+				},
+				{
+					"title": "Ara",
+					"content": "Telefon görüşmesi yapın."
+				},
+				{
+					"title": "Diğer",
+					"content": "Daha fazla bilgi ve ayarları görüntüleyin."
+				},
+				{
+					"title": "Ses tanıma",
+					"content": "Ses tanıma özelliğini etkinleştirin veya devre dışı bırakın."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "1. Adım",
+				"content1": "Katılımcılara ve konferans odası e-posta adresine (MTR hesabı) bir toplantı daveti gönderin.",
+				"content2": "Toplantı kabul edildiğinde kısa süre içinde oda takviminde görünür."
+			},
+			{
+				"title": "2. Adım",
+				"content1": "Toplantıya katılmak için “<b>Katıl</b>” seçeneğini belirleyin."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "1. Adım",
+				"content1": "Yeni bir toplantı oluşturmak için ThinkSmart Controller giriş ekranında “<b>Toplantı Yap</b>” seçeneğini belirleyin."
+			},
+			{
+				"title": "2. Adım",
+				"content1": "İstediğiniz kişilerin adlarını yazarak arama yapın ve davet etmek istediğiniz kişileri seçin."
+			},
+			{
+				"title": "3. Adım",
+				"content1": "Toplantı davetini göndermek için “<b>Katılma isteği gönder</b>” seçeneğini belirleyin."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "1. Adım",
+				"content1": "Bilgisayarınızı ThinkSmart One'daki HDMI giriş bağlacına bağlayın. Ekranınız otomatik olarak sitedeki katılımcılarla paylaşılır."
+			},
+			{
+				"title": "2. Adım",
+				"content1": "ThinkSmart Controller'da toplantıya katılın ve hem sitedeki hem de çevrimiçi katılımcılarla paylaşımı başlatmak için",
+				"content2": "simgesine tıklayın."
+			},
+			{
+				"title": "3. Adım",
+				"content1": "Paylaşımı durdurmak için",
+				"content2": "simgesine tıklayın ve HDMI giriş bağlacının bağlantısını kesin."
+			}
+		]
+	},
+	"faqs": {
+		"title": "ThinkSmart One Hakkında SSS",
+		"content1": "Bazı sık sorulan sorular burada referans amaçlı olarak listelenmektedir. Daha fazla bilgi için lütfen",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "adresini ziyaret edin veya şu adresten Lenovo profesyonel destek uzmanıyla iletişime geçin: ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Donanım veya yazılım dağıtım kılavuzunu nasıl bulabilirim?",
+				"content": ["Donanım veya yazılım kurulumu için\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> adresine gidin veya bu sayfanın alt kısmında bulunan kılavuzu okuyun."]
+			},
+			{
+				"title": "ThinkSmart One'da başka toplantı uygulamaları yükleyebilir miyim?",
+				"content": ["Hayır. ThinkSmart One yalnızca Microsoft Teams Odaları veya Zoom Rooms için tasarlanmıştır. ThinkSmart One'a başka toplantı uygulamalarının veya herhangi bir türde uygulamanın yüklenmesi önerilmez."]
+			},
+            {
+                "title": "MTR hesabı ile Yönetici hesabı arasında nasıl geçiş yapabilirim?",
+                "content": [
+                    "MTR hesabından yönetici hesabına geçmek için:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0MTR Ayarları sayfasına gidin.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0<b>Windows Ayarları</b> seçeneğini belirleyin.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0<b>Yönetici</b> seçeneğini belirleyin ve yönetici parolasını girin.</p><br />",
+                    "Yönetici hesabından MTR hesabına geçmek için:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0<b>Başlat</b> menüsünü açın.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0<b>Yönetici</b> → <b>Oturumu kapat</b> seçeneğini belirleyin.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0<b>Skype</b> → <b>Oturum aç</b> seçeneğini belirleyin.</p>"
+                ]
+            },
+            {
+                "title": "Zoom Rooms ile Yönetici hesabı arasında nasıl geçiş yapabilirim?",
+                "content": [
+                    "Zoom Rooms hesabından yönetici hesabına geçmek için:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Ana menüsünden <b>Ayarlar</b> → <b>Room</b> → <b>Windows Ayarları</b> seçeneğini belirleyin.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Room geçiş kodunu girin ve <b>Devam</b> seçeneğini belirleyin.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0<b>ZoomRoomsAdmin</b> seçeneğini belirleyin ve yönetici parolası ile oturum açın.</p><br />",
+                    "Yönetici hesabından Zoom Rooms hesabına geçmek için:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0<b>Başlat</b> menüsünü açın.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0<b>ZoomRoomsAdmin</b> → <b>Oturumu kapat</b> seçeneğini belirleyin.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0<b>ZoomRooms</b> → <b>Oturum aç</b> seçeneğini belirleyin.</p>"
+                ]
+            }
+		]
+	}
+}

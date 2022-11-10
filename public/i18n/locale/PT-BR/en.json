@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Página inicial"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "Perguntas frequentes"
+		}
+	],
+    "loading": "Não se esqueça de colocar o adesivo do QR em sua máquina.",
+	"language": "Português",
+	"disabled": "em breve.",
+	"footer": [
+		"Guia de Implantação (MTR)",
+		"Guia de Implantação (Zoom)",
+		"Manual de Manutenção de Hardware"
+	],
+	"home": {
+		"title": "Bem-vindo ao ThinkSmart One",
+		"nav": ["Salas do Microsoft Teams (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Visão geral ",
+			"Ingressar em uma reunião agendada",
+			"Criar uma reunião",
+			"Compartilhar conteúdo"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Calendário da sala",
+					"content": "Mostrar reuniões agendadas."
+				},
+				{
+					"title": "Reunir",
+					"content": "Iniciar uma nova reunião."
+				},
+				{
+					"title": "Compartilhar",
+					"content": "Inicie ou pare o compartilhamento de conteúdo."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Nome da sala de reunião",
+					"content": "Usado para procurar o email da sala de reunião."
+				},
+				{
+					"title": "Chamar",
+					"content": "Fazer uma chamada telefônica."
+				},
+				{
+					"title": "Mais",
+					"content": "Exibir mais informações e configurações."
+				},
+				{
+					"title": "Reconhecimento de voz",
+					"content": "Ativa ou desativa o reconhecimento de voz."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "Etapa 1",
+				"content1": "Envie um convite de reunião para os participantes e o endereço de email da sala de reunião (conta do MTR).",
+				"content2": "Assim que a reunião for aceita, ela aparecerá na agenda da sala em breve."
+			},
+			{
+				"title": "Etapa 2",
+				"content1": "Selecione <b>\"Ingressar\"</b> para se ingressar na reunião."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "Etapa 1",
+				"content1": "Selecione <b>\"Reunir\"</b> na tela inicial do ThinkSmart Controller para criar uma nova reunião."
+			},
+			{
+				"title": "Etapa 2",
+				"content1": "Digite um nome para pesquisar e selecione as pessoas que deseja convidar."
+			},
+			{
+				"title": "Etapa 3",
+				"content1": "Selecione <b>\"Solicitar ingresso\"</b> para enviar o convite da reunião."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "Etapa 1",
+				"content1": "Conecte o computador ao conector de entrada HDMI no ThinkSmart One. Sua tela será compartilhada automaticamente com os participantes no local."
+			},
+			{
+				"title": "Etapa 2",
+				"content1": "Participe da reunião no ThinkSmart Controller e clique em",
+				"content2": "para iniciar o compartilhamento com participantes online e no local."
+			},
+			{
+				"title": "Etapa 3",
+				"content1": "Clique em",
+				"content2": "e desconecte o conector de entrada HDMI para parar de compartilhar."
+			}
+		]
+	},
+	"faqs": {
+		"title": "Perguntas frequentes sobre o ThinkSmart One",
+		"content1": "Algumas perguntas frequentes são listadas aqui para sua referência. Para obter mais informações, visite",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "ou entre em contato com o especialista de suporte profissional Lenovo em ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Como encontrar o guia de implantação de hardware ou software?",
+				"content": ["Para configurar hardware e software, acesse:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> ou leia o guia conforme listado na parte inferior desta página."]
+			},
+			{
+				"title": "Posso instalar outros aplicativos de reunião no ThinkSmart One?",
+				"content": ["Não. O ThinkSmart One foi projetado somente para Salas do Microsoft Teams ou Zoom Rooms. Não é recomendável instalar nenhum outro aplicativo de reunião ou qualquer tipo de aplicativo no ThinkSmart One."]
+			},
+            {
+                "title": "Como alternar entre uma conta do MTR e uma conta de administrador?",
+                "content": [
+                    "Para alternar da conta do MTR para a conta de administrador:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Vá para a página Configurações do MTR.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Selecione <b>Configurações do Windows</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Selecione <b>Administrador</b> e insira a senha de administrador novamente.</p><br />",
+                    "Para alternar da conta do administrador para a conta do MTR:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Abra o menu <b>Iniciar</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Selecione <b>Administrator</b> → <b>Sair</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Selecione <b>Skype</b> → <b>Entrar</b>.</p>"
+                ]
+            },
+            {
+                "title": "Como alternar entre uma conta do Zoom Rooms e uma conta de administrador?",
+                "content": [
+                    "Para alternar da conta do Zoom Rooms para a conta do administrador:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0No menu principal, selecione <b>Configurações</b> → <b>Sala</b> → <b>Configurações do Windows</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Insira a senha da sala e selecione <b>Continuar</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Selecione o modo <b>ZoomRoomsAdmin</b> e entre com a senha do administrador.</p><br />",
+                    "Para alternar da conta do administrador para a conta do Zoom Rooms:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Abra o menu <b>Iniciar</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Selecione <b>ZoomRoomsAdmin</b> → <b>Sair</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Selecione <b>ZoomRooms</b> → <b>Entrar</b>.</p>"
+                ]
+            }
+		]
+	}
+}

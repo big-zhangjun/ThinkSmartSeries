@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "主页"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "常见问题解答"
+		}
+	],
+    "loading": "请记得将二维码贴纸贴到您的机器上。",
+	"language": "中文",
+	"disabled": "即将推出。",
+	"footer": [
+		"部署指南（MTR）",
+		"部署指南（Zoom）",
+		"硬件维护手册"
+	],
+	"home": {
+		"title": "欢迎使用 ThinkSmart One",
+		"nav": ["Microsoft Teams 会议室（MTR）", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"概述 ",
+			"加入预订会议",
+			"创建会议",
+			"共享内容"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "会议室日历",
+					"content": "显示预定的会议。"
+				},
+				{
+					"title": "会议",
+					"content": "开始新会议。"
+				},
+				{
+					"title": "共享",
+					"content": "开始或停止内容共享。"
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "会议室名称",
+					"content": "用于搜索会议室<br />电子邮件。"
+				},
+				{
+					"title": "通话",
+					"content": "进行通话。"
+				},
+				{
+					"title": "更多",
+					"content": "查看更多信息和设置。"
+				},
+				{
+					"title": "语音识别",
+					"content": "启用或禁用语音识别。"
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "第 1 步",
+				"content1": "向与会者和会议室电子邮件地址（MTR 帐户）发送会议邀请。",
+				"content2": "一旦会议被接受，它将很快显示在会议室日历上。"
+			},
+			{
+				"title": "第 2 步",
+				"content1": "选择<b>“加入”</b>以加入会议。"
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "第 1 步",
+				"content1": "在 ThinkSmart Controller 主屏幕上选择<b>“会议”</b>以创建新会议。"
+			},
+			{
+				"title": "第 2 步",
+				"content1": "输入姓名进行搜索并选择您要邀请的人。"
+			},
+			{
+				"title": "第 3 步",
+				"content1": "选择<b>“申请加入”</b>发送会议邀请。"
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "第 1 步",
+				"content1": "将计算机连接到 ThinkSmart One 上的 HDMI 输入接口。您的屏幕将自动共享给现场与会者。"
+			},
+			{
+				"title": "第 2 步",
+				"content1": "在 ThinkSmart Controller 上加入会议，单击",
+				"content2": "开始与现场和在线与会者共享屏幕。"
+			},
+			{
+				"title": "第 3 步",
+				"content1": "单击",
+				"content2": "从 HDMI 输入接口上断开连接，以停止共享。"
+			}
+		]
+	},
+	"faqs": {
+		"title": "ThinkSmart One 常见问题解答",
+		"content1": "此处列出了一些常见问题解答供您参考。如需了解更多信息，请访问",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "或联系 Lenovo 支持专家，地址：",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "如何找到硬件或软件部署指南？",
+				"content": ["有关硬件和软件设置，请访问：\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> 或阅读本页面底部列出的指南。"]
+			},
+			{
+				"title": "可以在 ThinkSmart One 上安装其他会议应用程序吗？",
+				"content": ["不可以。ThinkSmart One 设计为使用 Microsoft Teams 会议室或 Zoom Rooms。不建议在 ThinkSmart One 上安装任何其他会议应用程序或其他任何类型的应用程序。"]
+			},
+            {
+                "title": "如何在 MTR 帐户和管理员帐户之间切换？",
+                "content": [
+                    "从 MTR 帐户切换到管理员帐户：",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0转到 MTR 设置页面。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0选择 <b>Windows 设置</b>。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0选择<b>管理员</b>并输入管理员密码。</p><br />",
+                    "从管理员帐户切换到 MTR 帐户：",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0打开<b>开始</b>菜单。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0选择<b>管理员</b> → <b>注销</b>。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0选择 <b>Skype</b> → <b>登录</b>。</p>"
+                ]
+            },
+            {
+                "title": "如何在 Zoom Rooms 帐户和管理员帐户之间切换？",
+                "content": [
+                    "从 Zoom Rooms 帐户切换到管理员帐户：",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0从主菜单中选择<b>设置</b> → <b>会议室</b> → <b>Windows 设置</b>。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0输入会议室密码并选择<b>继续</b>。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0选择 <b>ZoomRoomsAdmin</b> 并使用管理员密码登录。</p><br />",
+                    "从管理员帐户切换到 Zoom Rooms 帐户：",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0打开<b>开始</b>菜单。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0选择 <b>ZoomRoomsAdmin</b> → <b>注销</b>。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0选择 <b>ZoomRooms</b> → <b>登录</b>。</p>"
+                ]
+            }
+		]
+	}
+}

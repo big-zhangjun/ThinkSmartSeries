@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Kezdőlap"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "GYIK"
+		}
+	],
+    "loading": "Ne felejtse el elhelyezni a gépen a QR-matricát.",
+	"language": "Magyar",
+	"disabled": "hamarosan érkezik.",
+	"footer": [
+		"Telepítési útmutató (MTR)",
+		"Telepítési útmutató (Zoom)",
+		"Hardverkarbantartási kézikönyv"
+	],
+	"home": {
+		"title": "Üdvözli a ThinkSmart One!",
+		"nav": ["Microsoft Teams Rooms (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Áttekintés ",
+			"Csatlakozás egy ütemezett értekezlethez",
+			"Értekezlet létrehozása",
+			"Tartalom megosztása"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Helyiségnaptár",
+					"content": "Ütemezett értekezletek megjelenítése."
+				},
+				{
+					"title": "Értekezlet",
+					"content": "Új értekezlet indítása."
+				},
+				{
+					"title": "Megosztás",
+					"content": "A tartalommegosztás indítása vagy leállítása."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Konferenciaterem neve",
+					"content": "A konferenciaterem e-mail-címének kereséséhez használatos."
+				},
+				{
+					"title": "Hívás",
+					"content": "Telefonhívás kezdeményezése."
+				},
+				{
+					"title": "Továbbiak",
+					"content": "További információk és beállítások megtekintése."
+				},
+				{
+					"title": "Hangfelismerés",
+					"content": "A hangfelismerés be- és kikapcsolása."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "1. lépés",
+				"content1": "Értekezletra szóló meghívó küldése a résztvevőknek és a konferenciaterem e-mail-címére (MTR-fiók).",
+				"content2": "Az értekezlet elfogadása után rövid időre megjelenik a helyiség naptárában."
+			},
+			{
+				"title": "2. lépés",
+				"content1": "Az értekezlethez a <b>„Csatlakozás”</b> lehetőséget választva csatlakozhat."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "1. lépés",
+				"content1": "Új értekezlet létrehozásához válassza az <b>„Értekezlet”</b> lehetőséget a ThinkSmart Controller kezdőképernyőjén."
+			},
+			{
+				"title": "2. lépés",
+				"content1": "Írja be a keresendő nevet, majd válassza ki a meghívni kívánt embereket."
+			},
+			{
+				"title": "3. lépés",
+				"content1": "Válassza a <b>„Csatlakozás kérése”</b> lehetőséget az értekezletre szóló meghívó elküldéséhez."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "1. lépés",
+				"content1": "Csatlakoztassa a számítógépét a ThinkSmart One HDMI-bemeneti csatlakozójához. A rendszer automatikusan megosztja a képernyőt a helyszíni résztvevőkkel."
+			},
+			{
+				"title": "2. lépés",
+				"content1": "Csatlakozzon az értekezlethez a ThinkSmart Controlleren, és kattintson a(z)",
+				"content2": "lehetőségre a helyszíni és az online résztvevőkkel való megosztáshoz."
+			},
+			{
+				"title": "3. lépés",
+				"content1": "A megosztás leállításához kattintson a(z)",
+				"content2": "lehetőségre, és válassza le a számítógépet a HDMI-bemeneti csatlakozóról."
+			}
+		]
+	},
+	"faqs": {
+		"title": "ThinkSmart One GYIK",
+		"content1": "Segítségképp itt olvashat néhány gyakran ismétlődő kérdést. További információért keresse fel a",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "oldalt, vagy forduljon a Lenovo támogatási szakértőihez ezen az oldalon: ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Hogyan található meg a hardveres vagy szoftveres telepítési útmutató?",
+				"content": ["A hardver és a szoftver beállításáról a \u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> oldalon tájékozódhat, vagy olvassa el az ennek az oldalnak az alján szereplő útmutatót."]
+			},
+			{
+				"title": "Más konferenciaalkalmazásokat is telepíthetek a ThinkSmart One-ra?",
+				"content": ["Nem. A ThinkSmart One csak Microsoft Teams Konferencia vagy a Zoom Rooms szoftverhez készült. Nem javasolt más konferencia- vagy egyéb alkalmazást telepíteni a ThinkSmart One készülékre."]
+			},
+            {
+                "title": "Hogyan lehet váltani egy MTR-fiók és az adminisztrátori fiók között?",
+                "content": [
+                    "Váltás az MTR-fiókról az adminisztrátori fiókra:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Lépjen az MTR-beállítások oldalára.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Válassza a <b>Windows-beállítások</b> lehetőséget.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Válassza az <b>Adminisztrátor</b> lehetőséget, és adja meg az adminisztrátori jelszót.</p><br />",
+                    "Váltás az adminisztrátori fiókról az MTR-fiókra:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Nyissa meg a <b>Start</b> menüt.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Válassza ki az <b>Adminisztrátor</b> → <b>Kijelentkezés</b> lehetőséget.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Válassza a <b>Skype</b> → <b>Bejelentkezés</b> lehetőséget.</p>"
+                ]
+            },
+            {
+                "title": "Hogyan lehet váltani egy Zoom Rooms-fiók és az adminisztrátori fiók között?",
+                "content": [
+                    "Váltás a Zoom Rooms-fiókról az adminisztrátori fiókra:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0A főmenüből válassza a <b>Beállítások</b> → <b>Szoba</b> → <b>Windows-beállítások</b> lehetőséget.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Adja meg a szoba jelszavát, és válassza a <b>Folytatás</b> lehetőséget.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Válassza ki a <b>ZoomRoomsAdmin</b> lehetőséget, és jelentkezzen be az adminisztrátori jelszóval.</p><br />",
+                    "Váltás az adminisztrátori fiókról a Zoom Rooms-fiókra:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Nyissa meg a <b>Start</b> menüt.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Válassza a <b>ZoomRoomsAdmin</b> → <b>Kijelentkezés</b> lehetőséget.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Válassza a <b>ZoomRooms</b> → <b>Bejelentkezés</b> lehetőséget.</p>"
+                ]
+            }
+		]
+	}
+}

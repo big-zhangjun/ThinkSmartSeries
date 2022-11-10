@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Pagina de pornire"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "Întrebări frecvente"
+		}
+	],
+    "loading": "Nu uitați să lipiți eticheta QR pe unitatea dvs.",
+	"language": "Română",
+	"disabled": "în curând.",
+	"footer": [
+		"Ghid de implementare (MTR)",
+		"Ghid de implementare (Zoom)",
+		"Manual de întreținere hardware"
+	],
+	"home": {
+		"title": "Bun venit la ThinkSmart One",
+		"nav": ["Săli Microsoft Teams (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Prezentare generală ",
+			"Asociere la o întâlnire programată",
+			"Creare o întâlnire",
+			"Partajare conținut"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Calendar sală",
+					"content": "Afișați întâlnirile programate."
+				},
+				{
+					"title": "Întâlnire",
+					"content": "Inițiați o întâlnire nouă."
+				},
+				{
+					"title": "Partajare",
+					"content": "Porniți sau opriți partajarea conținutului."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Numele sălii de conferință",
+					"content": "Se utilizează pentru a căuta e-mailul sălii de conferință."
+				},
+				{
+					"title": "Apel",
+					"content": "Efectuați un apel telefonic."
+				},
+				{
+					"title": "Mai multe",
+					"content": "Vizualizați mai multe informații și setări."
+				},
+				{
+					"title": "Recunoaștere vocală",
+					"content": "Activați sau dezactivați recunoașterea vocală."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "Pasul 1",
+				"content1": "Trimiteți participanților o invitație la întâlnire și adresa de e-mail a sălii de conferință (cont MTR).",
+				"content2": "După ce întâlnirea este acceptată, aceasta va apărea în scurt timp în calendarul sălii."
+			},
+			{
+				"title": "Pasul 2",
+				"content1": "Selectați <b>\"Join\"</b> pentru a vă asocia întâlnirii."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "Pasul 1",
+				"content1": "Selectați <b>\"Meet\"</b> pe ecranul de pornire ThinkSmart Controller pentru a crea o întâlnire nouă."
+			},
+			{
+				"title": "Pasul 2",
+				"content1": "Introduceți un nume pentru a căuta și selecta persoanele pe care doriți să le invitați."
+			},
+			{
+				"title": "Pasul 3",
+				"content1": "Selectați <b>\"Request to join\"</b> pentru a trimite invitația la întâlnire."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "Pasul 1",
+				"content1": "Conectați-vă computerul la conectorul de intrare HDMI de pe ThinkSmart One. Ecranul dvs. va fi partajat automat cu participanții din locație."
+			},
+			{
+				"title": "Pasul 2",
+				"content1": "Asociați-vă întâlnirii pe ThinkSmart Controller și faceți clic",
+				"content2": "pentru a începe partajarea atât cu participanții din locație, cât și cu cei online."
+			},
+			{
+				"title": "Pasul 3",
+				"content1": "Faceți clic",
+				"content2": "și deconectați-vă de la conectorul de intrare HDMI pentru a opri partajarea."
+			}
+		]
+	},
+	"faqs": {
+		"title": "Întrebări frecvente despre ThinkSmart One",
+		"content1": "Pentru referință, aici sunt prezentate câteva întrebări frecvente. Pentru informații suplimentare, vizitați",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "sau contactați specialistul de asistență profesională Lenovo pe ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Cum găsiți ghidul de implementare pentru hardware sau software?",
+				"content": ["Pentru configurarea hardware și software, accesați:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> sau citiți ghidul prezentat în partea de jos a acestei pagini."]
+			},
+			{
+				"title": "Pot instala alte aplicații pentru întâlniri pe ThinkSmart One?",
+				"content": ["Nu. ThinkSmart One este proiectat exclusiv pentru Microsoft Teams Rooms sau Zoom Rooms. Nu se recomandă instalarea altor aplicații pentru întâlniri sau a altor tipuri de aplicații pe ThinkSmart One."]
+			},
+            {
+                "title": "Cum se comută între un cont MTR și un cont de Administrator?",
+                "content": [
+                    "Pentru a comuta de la contul MTR la contul de administrator:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Accesați pagina de setări MTR.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Selectați <b>Windows Settings</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Selectați <b>Administrator</b> și introduceți parola de administrator.</p><br />",
+                    "Pentru a comuta de la contul de administrator la contul MTR:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Deschideți meniul <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Selectați <b>Administrator</b> → <b>Sign out</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Selectați <b>Skype</b> → <b>Sign in</b>.</p>"
+                ]
+            },
+            {
+                "title": "Cum se comută între un cont Zoom Rooms și un cont de Administrator?",
+                "content": [
+                    "Pentru a comuta de la contul Zoom Rooms la contul de administrator:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Din meniul principal, selectați <b>Settings</b> → <b>Room</b> → <b>Windows Settings</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Introduceți codul de acces al sălii și selectați <b>Continue</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Selectați <b>ZoomRoomsAdmin</b> și conectați-vă cu parola de administrator.</p><br />",
+                    "Pentru a comuta de la contul de administrator la contul Zoom Rooms:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Deschideți meniul <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Selectați <b>ZoomRoomsAdmin</b> → <b>Sign out</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Selectați <b>ZoomRooms</b> → <b>Sign in</b>.</p>"
+                ]
+            }
+		]
+	}
+}

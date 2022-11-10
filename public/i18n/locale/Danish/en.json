@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Start"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "Ofte stillede spørgsmål"
+		}
+	],
+    "loading": "Husk at sætte QR-etiketten på din maskine.",
+	"language": "Dansk",
+	"disabled": "kommer snart.",
+	"footer": [
+		"Installationsvejledning (MTR)",
+		"Installationsvejledning (Zoom)",
+		"Vejledning til hardwarevedligeholdelse"
+	],
+	"home": {
+		"title": "Velkommen til ThinkSmart One",
+		"nav": ["Microsoft Teams-rum (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Oversigt ",
+			"Deltag i et planlagt møde",
+			"Opret et møde",
+			"Del indhold"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Lokalekalender",
+					"content": "Vis planlagte møder."
+				},
+				{
+					"title": "Hold møde",
+					"content": "Start et nyt møde."
+				},
+				{
+					"title": "Del",
+					"content": "Start eller stop deling af indhold."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Navn på mødelokale",
+					"content": "Bruges til at søge efter e-mail om<br />mødelokale."
+				},
+				{
+					"title": "Ring",
+					"content": "Foretag et telefonopkald."
+				},
+				{
+					"title": "Flere",
+					"content": "Vis flere oplysninger og indstillinger."
+				},
+				{
+					"title": "Stemmegenkendelse",
+					"content": "Aktiver eller deaktiver stemmegenkendelse."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "Trin 1",
+				"content1": "Send en mødeinvitation til deltagerne og til mødelokalets e-mailadresse (MTR-konto).",
+				"content2": "Når mødet er accepteret, vises det i lokalekalenderen kort tid efter."
+			},
+			{
+				"title": "Trin 2",
+				"content1": "Vælg <b>\"Deltag\"</b> for at deltage i mødet."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "Trin 1",
+				"content1": "Vælg <b>\"Hold møde\"</b> på ThinkSmart Controller-startskærmen for at oprette et nyt møde."
+			},
+			{
+				"title": "Trin 2",
+				"content1": "Skriv et navn for at søge efter og vælge de personer, du vil invitere."
+			},
+			{
+				"title": "Trin 3",
+				"content1": "Vælg <b>\"Anmod om at deltage\"</b> for at sende mødeinvitationen."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "Trin 1",
+				"content1": "Slut din computer til HDMI-indgangsstikket på ThinkSmart One. Dit skærmbillede deles automatisk med deltagere på stedet."
+			},
+			{
+				"title": "Trin 2",
+				"content1": "Deltag i mødet på ThinkSmart Controller, og klik på",
+				"content2": "for at begynde at dele med både deltagere på stedet og onlinedeltagere."
+			},
+			{
+				"title": "Trin 3",
+				"content1": "Klik på",
+				"content2": "og afbryd forbindelsen til HDMI-indgangsstikket for at stoppe delingen."
+			}
+		]
+	},
+	"faqs": {
+		"title": "Ofte stillede spørgsmål om ThinkSmart One",
+		"content1": "Her er nogle ofte stillede spørgsmål til din orientering. Du kan finde flere oplysninger på",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "eller kontakte Lenovos supportspecialist på ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Hvordan får jeg hjælp til installation af hardware eller software?",
+				"content": ["I forbindelse med installation af hardware og software skal du gå til:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> – eller læse vejledningen, som er angivet nederst på denne side."]
+			},
+			{
+				"title": "Kan jeg installere andre mødeprogrammer på ThinkSmart One?",
+				"content": ["Nej. ThinkSmart One er kun designet til Microsoft Teams-rum eller Zoom Rooms. Det anbefales, at du ikke installerer andre mødeprogrammer eller nogen andre typer programmer på ThinkSmart One."]
+			},
+            {
+                "title": "Hvordan skifter jeg mellem en MTR-konto og en administratorkonto?",
+                "content": [
+                    "Sådan skifter du fra MTR-kontoen til administratorkontoen:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Gå til siden med MTR-indstillinger.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Vælg <b>Windows-indstillinger</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Vælg <b>Administrator</b>, og indtast administratoradgangskoden.</p><br />",
+                    "Sådan skifter du fra administratorkontoen til MTR-kontoen:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Åbn menuen <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Vælg <b>Administrator</b> → <b>Log af</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Vælg <b>Skype</b> → <b>Log på</b>.</p>"
+                ]
+            },
+            {
+                "title": "Hvordan skifter jeg mellem en Zoom Rooms-konto og en administratorkonto?",
+                "content": [
+                    "Sådan skifter du fra Zoom Rooms-kontoen til administratorkontoen:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Fra hovedmenuen skal du vælge <b>Indstillinger</b> → <b>Room</b> → <b>Windows-indstillinger</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Angiv Room-adgangskoden, og vælg <b>Fortsæt</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Vælg <b>ZoomRoomsAdmin</b>, og log på med administratoradgangskoden.</p><br />",
+                    "Sådan skifter du fra administratorkontoen til Zoom Rooms-kontoen:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Åbn menuen <b>Start</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Vælg <b>ZoomRoomsAdmin</b> → <b>Log af</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Vælg <b>ZoomRooms</b> → <b>Log på</b>.</p>"
+                ]
+            }
+		]
+	}
+}

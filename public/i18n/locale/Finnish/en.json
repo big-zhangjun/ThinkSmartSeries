@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Aloitus"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "Usein kysytyt kysymykset"
+		}
+	],
+    "loading": "Muista kiinnittää QR-tarra laitteeseesi.",
+	"language": "Suomi",
+	"disabled": "tulossa pian.",
+	"footer": [
+		"Käyttöönotto-opas (MTR)",
+		"Käyttöönotto-opas (Zoom)",
+		"Laitteiston ylläpito-opas"
+	],
+	"home": {
+		"title": "Tervetuloa ThinkSmart Oneen",
+		"nav": ["Microsoft Teams -kokoustila (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Yleiskuvaus ",
+			"Liity ajoitettuun kokoukseen",
+			"Luo kokous",
+			"Jaa sisältöä"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Tilakalenteri",
+					"content": "Näytä ajoitetut kokoukset."
+				},
+				{
+					"title": "Tapaa muita",
+					"content": "Aloita uusi kokous."
+				},
+				{
+					"title": "Jaa",
+					"content": "Aloita tai lopeta sisällön jakaminen."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Neuvotteluhuoneen nimi",
+					"content": "Käytetään neuvotteluhuoneen<br />sähköpostiosoitteen hakemiseen."
+				},
+				{
+					"title": "Soita",
+					"content": "Soita puhelu."
+				},
+				{
+					"title": "Lisää",
+					"content": "Katso lisätietoja ja tutki asetuksia."
+				},
+				{
+					"title": "Puheentunnistus",
+					"content": "Ota puheentunnistus käyttöön tai pois käytöstä."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "Vaihe 1",
+				"content1": "Lähetä kokouskutsu osallistujille ja neuvotteluhuoneen sähköpostiosoitteeseen (MTR-tilille).",
+				"content2": "Kun kokous on hyväksytty, se näytetään pian tilakalenterissa."
+			},
+			{
+				"title": "Vaihe 2",
+				"content1": "Liity kokoukseen valitsemalla <b>”Liity”</b>."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "Vaihe 1",
+				"content1": "Valitse ThinkSmart Controller -aloitusruudulta <b>”Tapaa muita”</b> luodaksesi uuden kokouksen."
+			},
+			{
+				"title": "Vaihe 2",
+				"content1": "Hae kirjoittamalla nimi ja valitse ihmiset, jotka haluat kutsua mukaan."
+			},
+			{
+				"title": "Vaihe 3",
+				"content1": "Valitse <b>”Pyydä liittymään”</b> lähettääksesi kokouskutsun."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "Vaihe 1",
+				"content1": "Yhdistä tietokoneesi ThinkSmart Onen HDMI-tuloliitäntään. Näyttösi jaetaan automaattisesti paikalla oleville osallistujille."
+			},
+			{
+				"title": "Vaihe 2",
+				"content1": "Liity kokoukseen ThinkSmart Controllerissa ja napsauta",
+				"content2": "aloittaaksesi jakamisen paikalla oleville ja verkon kautta yhteydessä oleville osallistujille."
+			},
+			{
+				"title": "Vaihe 3",
+				"content1": "Napsauta",
+				"content2": "Ja irrota tietokone HDMI-tuloliitännästä lopettaaksesi jakamisen."
+			}
+		]
+	},
+	"faqs": {
+		"title": "ThinkSmart One – usein kysytyt kysymykset",
+		"content1": "Tämä luettelo sisältää joitakin usein kysyttyjä kysymyksiä viitteeksi. Saat lisätietoja osoitteesta",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "tai ottamalla yhteyttä Lenovon-asiakastuen asiantuntijaan osoitteesta ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Mistä löydän laitteiston tai ohjelmiston käyttöönotto-oppaan?",
+				"content": ["Katso laitteiston ja ohjelmiston asennusohjeet osoitteesta:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> tai lue tämän sivun alalaidassa mainittu opas."]
+			},
+			{
+				"title": "Voinko asentaa ThinkSmart Oneen muita kokoussovelluksia?",
+				"content": ["Et. ThinkSmart One on tarkoitettu vain Microsoft Teams Rooms- ja Zoom Rooms -sovelluksille. Suosittelemme, ettet asenna ThinkSmart Oneen muita kokoussovelluksia tai mitään muun tyyppisiä sovelluksia."]
+			},
+            {
+                "title": "Miten voin siirtyä MTR-tilin ja järjestelmänvalvojan tilin välillä?",
+                "content": [
+                    "MTR-tilistä siirtyminen järjestelmänvalvojan tiliin:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Siirry MTR-asetusten sivulle.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Valitse <b>Windows-asetukset</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Valitse <b>Järjestelmänvalvoja</b> ja syötä järjestelmänvalvojan salasana.</p><br />",
+                    "Järjestelmänvalvojan tilistä siirtyminen MTR-tiliin:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Avaa <b>Aloitus</b>-valikko.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Valitse <b>Järjestelmänvalvoja</b> → <b>Kirjaudu ulos</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Valitse <b>Skype</b> → <b>Kirjaudu sisään</b>.</p>"
+                ]
+            },
+            {
+                "title": "Miten voin siirtyä Zoom Rooms -tilin ja järjestelmänvalvojan tilin välillä?",
+                "content": [
+                    "Zoom Rooms -tilistä siirtyminen järjestelmänvalvojan tiliin:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Valitse päävalikosta <b>Asetukset</b> → <b>Huone</b> → <b>Windows-asetukset</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Syötä huoneen salasana ja valitse <b>Jatka</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Valitse <b>ZoomRoomsAdmin</b> ja kirjaudu sisään järjestelmänvalvojan salasanalla.</p><br />",
+                    "Järjestelmänvalvojan tilistä siirtyminen Zoom Rooms -tiliin:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Avaa <b>Aloitus</b>-valikko.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Valitse <b>ZoomRoomsAdmin</b> → <b>Kirjaudu ulos</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Valitse <b>ZoomRooms</b> → <b>Kirjaudu sisään</b>.</p>"
+                ]
+            }
+		]
+	}
+}

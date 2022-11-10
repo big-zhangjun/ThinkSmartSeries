@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "ホーム"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "FAQ"
+		}
+	],
+    "loading": "マシンに QR ステッカーを貼り付けるのを忘れないでください。",
+	"language": "日本語",
+	"disabled": "近日公開。",
+	"footer": [
+		"デプロイメント・ガイド (MTR)",
+		"デプロイメント・ガイド (Zoom)",
+		"ハードウェア保守マニュアル"
+	],
+	"home": {
+		"title": "ThinkSmart One へようこそ",
+		"nav": ["Microsoft Teams ミーティング (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"概要 ",
+			"スケジュールされた会議への参加",
+			"会議の作成",
+			"コンテンツを共有"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "会議室カレンダー",
+					"content": "スケジュールされた会議を表示します。"
+				},
+				{
+					"title": "会議",
+					"content": "新しい会議を開始します。"
+				},
+				{
+					"title": "共有",
+					"content": "コンテンツの共有を開始または停止します。"
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "会議室名",
+					"content": "会議室のメールの検索に<br />使用します。"
+				},
+				{
+					"title": "通話",
+					"content": "電話を掛けます。"
+				},
+				{
+					"title": "詳細",
+					"content": "詳しい情報と設定を表示します。"
+				},
+				{
+					"title": "音声認識",
+					"content": "音声認識を有効または無効にします。"
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "ステップ 1",
+				"content1": "参加者と会議室のメール・アドレス (MTR アカウント) に会議への招待を送信します。",
+				"content2": "会議が受け入れられると、すぐに会議室カレンダーに表示されます。"
+			},
+			{
+				"title": "ステップ 2",
+				"content1": "<b>「参加」</b>を選択して会議に参加します。"
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "ステップ 1",
+				"content1": "ThinkSmart Controller のホーム画面で、<b>「会議」</b>を選択して新しい会議を作成します。"
+			},
+			{
+				"title": "ステップ 2",
+				"content1": "検索する名前を入力し、招待するユーザーを選択します。"
+			},
+			{
+				"title": "ステップ 3",
+				"content1": "<b>「参加を要請」</b>を選択して、会議への招待を送信します。"
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "ステップ 1",
+				"content1": "コンピューターを ThinkSmart One の HDMI 入力コネクターに接続します。画面がオンサイトの参加者に自動的に共有されます。"
+			},
+			{
+				"title": "ステップ 2",
+				"content1": "ThinkSmart Controller の会議に参加してから、",
+				"content2": "をクリックしてオンサイトとオンラインの両方の参加者との共有を開始します。"
+			},
+			{
+				"title": "ステップ 3",
+				"content1": "をクリックして、",
+				"content2": "HDMI 入力コネクターから切断して、共有を停止します。"
+			}
+		]
+	},
+	"faqs": {
+		"title": "ThinkSmart One の FAQ",
+		"content1": "参考のために、よくある質問と答えの一部が以下に記載されています。詳しくは、",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "にアクセスするか、または以下のアドレスから Lenovo のプロフェッショナル・サポートの専門家に連絡してください。",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "ハードウェアまたはソフトウェアのデプロイメント・ガイドを見つける方法",
+				"content": ["ハードウェアおよびソフトウェアのセットアップについては、\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br /> pccbbs/pubs/thinksmart_one_guide/story.html</a> にアクセスするか、またはこのページ下部に記載されているガイドをお読みください。"]
+			},
+			{
+				"title": "その他の会議アプリケーションを ThinkSmart One にインストールできますか?",
+				"content": ["いいえ。ThinkSmart One は、Microsoft Teams Rooms または Zoom Rooms 専用に設計されています。ThinkSmart One に他の会議アプリケーションまたは何らかのタイプのアプリケーションをインストールすることはお勧めしません。"]
+			},
+            {
+                "title": "MTR アカウントと管理者アカウントを切り替える方法",
+                "content": [
+                    "MTR アカウントから管理者アカウントに切り替える手順:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0MTR 設定ページに移動します。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0<b>Windows の設定</b>を選択します。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0<b>管理者</b>を選択して、管理者パスワードを入力します。</p><br />",
+                    "管理者アカウントから MTR アカウントに切り替える手順:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0<b>スタート</b>メニューを開きます。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0<b>管理者</b> → <b>サインアウト</b>を選択します。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0<b>Skype</b> → <b>サインイン</b>を選択します。</p>"
+                ]
+            },
+            {
+                "title": "Zoom Rooms アカウントと管理者アカウントを切り替える方法",
+                "content": [
+                    "Zoom Rooms アカウントから管理者アカウントに切り替える手順:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0メイン・メニューで、<b>設定</b> → <b>ルーム</b> → <b>Windows の設定</b>を選択します。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Room のパスコードを入力し、<b>続行</b>を選択します。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0<b>ZoomRoomsAdmin</b> を選択し、管理者パスワードでログインします。</p><br />",
+                    "管理者アカウントから Zoom Rooms アカウントに切り替える手順:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0<b>スタート</b>メニューを開きます。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0<b>ZoomRoomsAdmin</b> → <b>サインアウト</b>を選択します。</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0<b>ZoomRooms</b> → <b>サインイン</b>を選択します。</p>"
+                ]
+            }
+		]
+	}
+}

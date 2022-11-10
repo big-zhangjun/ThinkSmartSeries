@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Start"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "Vanliga frågor"
+		}
+	],
+    "loading": "Glöm inte att fästa QR-klistermärket på datorn.",
+	"language": "Svenska",
+	"disabled": "kommer snart.",
+	"footer": [
+		"Distributionshandbok (MTR)",
+		"Distributionshandbok (Zoom)",
+		"Underhållshandbok för maskinvara"
+	],
+	"home": {
+		"title": "Välkommen till ThinkSmart One",
+		"nav": ["Microsoft Teams Rum (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Översikt ",
+			"Ansluta till ett schemalagt möte",
+			"Skapa ett möte",
+			"Dela innehåll"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Rumskalender",
+					"content": "Visa schemalagda möten."
+				},
+				{
+					"title": "Möte",
+					"content": "Starta nytt möte."
+				},
+				{
+					"title": "Dela",
+					"content": "Starta eller stoppa dela innehåll."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Namn på konferensrum",
+					"content": "Används för att söka efter e-post till<br />konferensrum."
+				},
+				{
+					"title": "Samtal",
+					"content": "Ring ett telefonsamtal."
+				},
+				{
+					"title": "Mer",
+					"content": "Visa mer information och inställningar."
+				},
+				{
+					"title": "Röstigenkänning",
+					"content": "Aktivera eller inaktivera röstigenkänning."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "Steg 1",
+				"content1": "Skicka en mötesinbjudan till deltagare och till ditt konferensrums e-postadress (MTR-konto).",
+				"content2": "När mötet har accepterats visas det strax efter i rumskalendern."
+			},
+			{
+				"title": "Steg 2",
+				"content1": "Välj <b>\"Anslut\"</b> för att ansluta till mötet."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "Steg 1",
+				"content1": "Välj <b>\"Möte\"</b> på startskärmen i ThinkSmart Controller för att skapa ett nytt möte."
+			},
+			{
+				"title": "Steg 2",
+				"content1": "Skriv ett namn att söka efter och välj de personer du vill bjuda in."
+			},
+			{
+				"title": "Steg 3",
+				"content1": "Välj <b>\"Förfrågan att delta\"</b> för att skicka mötesinbjudan."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "Steg 1",
+				"content1": "Anslut datorn till HDMI-inkontakten på ThinkSmart One. Din skärm delas automatiskt med deltagare på plats."
+			},
+			{
+				"title": "Steg 2",
+				"content1": "Anslut till mötet på ThinkSmart Controller och klicka på",
+				"content2": "för att börja dela med både deltagare på plats och online."
+			},
+			{
+				"title": "Steg 3",
+				"content1": "Klicka på",
+				"content2": "och koppla bort HDMI-inkontakten för att sluta dela."
+			}
+		]
+	},
+	"faqs": {
+		"title": "Vanliga frågor och svar om ThinkSmart One",
+		"content1": "Här kan du hitta några vanliga frågor och svar. Mer information finns på",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": "eller kontakta Lenovos supportspecialist på ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Så här hittar du en distributionshandbok för maskin- eller programvara.",
+				"content": ["För att installera maskin- eller programvara ska du gå till:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> eller läsa handboken som visas längst ned på den här sidan."]
+			},
+			{
+				"title": "Kan jag installera andra mötesprogram på ThinkSmart One?",
+				"content": ["Nej. ThinkSmart One är designat enbart för Microsoft Teams Rooms eller Zoom Rooms. Du rekommenderas inte att installera andra mötesprogram eller andra typer av program på ThinkSmart One."]
+			},
+            {
+                "title": "Så här växlar du mellan ett MTR-konto och ett administratörskonto.",
+                "content": [
+                    "Så här växlar du från MTR-kontot till administratörskontot:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Gå till sidan MTR-inställningar.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Välj <b>Windows-inställningar</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Välj <b>Administratör</b> och ange administratörslösenordet.</p><br />",
+                    "Så här växlar du från administratörskontot till MTR-kontot:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Öppna <b>Start</b>-menyn.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Välj <b>Administratör</b> → <b>Logga ut</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Välj <b>Skype</b> → <b>Logga in</b>.</p>"
+                ]
+            },
+            {
+                "title": "Så här växlar du mellan ett Zoom Rooms-konto och ett administratörskonto.",
+                "content": [
+                    "Så här växlar du från Zoom Rooms-kontot till administratörskontot:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0I huvudmenyn väljer du <b>Inställningar</b> → <b>Room</b> → <b>Windows-inställningar</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Ange Room-lösenkoden och välj <b>Fortsätt</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Välj <b>ZoomRoomsAdmin</b> och logga in med administratörslösenordet.</p><br />",
+                    "Så här växlar du från administratörskontot till Zoom Rooms-kontot:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Öppna <b>Start</b>-menyn.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Välj <b>ZoomRoomsAdmin</b> → <b>Logga ut</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Välj <b>ZoomRooms</b> → <b>Logga in</b>.</p>"
+                ]
+            }
+		]
+	}
+}

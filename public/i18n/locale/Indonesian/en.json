@@ -1,0 +1,154 @@
+{
+	"nav": [
+		{
+			"title": "Beranda"
+		},
+		{
+			"title": "MTR"
+		},
+		{
+			"title": "Zoom Rooms"
+		},
+		{
+			"title": "FAQ"
+		}
+	],
+    "loading": "Jangan lupa untuk menempelkan stiker QR di komputer Anda.",
+	"language": "Bahasa Inggris",
+	"disabled": "segera hadir.",
+	"footer": [
+		"Panduan Penerapan (MTR)",
+		"Panduan Penerapan (Zoom)",
+		"Panduan Perawatan Perangkat Keras"
+	],
+	"home": {
+		"title": "Selamat Datang di ThinkSmart One",
+		"nav": ["Ruang Microsoft Teams (MTR)", "Zoom Rooms"]
+	},
+	"mtr": {
+		"tabs": [
+			"Ikhtisar ",
+			"Bergabung ke rapat terjadwal",
+			"Buat rapat",
+			"Berbagi konten"
+		],
+		"Overview": {
+			"leftAtricle": [
+				{
+					"title": "Kalender ruangan",
+					"content": "Tampilkan jadwal rapat."
+				},
+				{
+					"title": "Rapat",
+					"content": "Mulai rapat baru."
+				},
+				{
+					"title": "Bagikan",
+					"content": "Mulai atau hentikan berbagi<br /> konten."
+				}
+			],
+			"rightAtricle": [
+				{
+					"title": "Nama ruang konferensi",
+					"content": "Digunakan untuk mencari email ruang konferensi."
+				},
+				{
+					"title": "Panggilan",
+					"content": "Buat panggilan telepon."
+				},
+				{
+					"title": "Lainnya",
+					"content": "Lihat informasi dan pengaturan lainnya."
+				},
+				{
+					"title": "Pengenalan suara",
+					"content": "Aktifkan atau nonaktifkan pengenalan suara."
+				}
+			]
+		},
+		"JoinAScheduledMeeting": [
+			{
+				"title": "Langkah 1",
+				"content1": "Kirim undangan rapat kepada peserta serta alamat email ruang konferensi (akun MTR).",
+				"content2": "Setelah diterima, rapat akan segera muncul di kalender ruang."
+			},
+			{
+				"title": "Langkah 2",
+				"content1": "Pilih <b>\"Bergabung\"</b> untuk mengikuti rapat."
+			}
+		],
+		"CreateAMeeting": [
+			{
+				"title": "Langkah 1",
+				"content1": "Pilih <b>\"Rapat\"</b> di halaman beranda ThinkSmart Controller untuk membuat rapat baru."
+			},
+			{
+				"title": "Langkah 2",
+				"content1": "Ketik nama untuk mencari dan memilih orang yang ingin Anda undang."
+			},
+			{
+				"title": "Langkah 3",
+				"content1": "Pilih <b>\"Minta untuk bergabung\"</b> untuk mengirim undangan rapat."
+			}
+		],
+		"ShareContent": [
+			{
+				"title": "Langkah 1",
+				"content1": "Sambungkan komputer ke konektor HDMI-in di ThinkSmart One. Layar Anda akan otomatis dibagikan ke peserta yang hadir di lokasi."
+			},
+			{
+				"title": "Langkah 2",
+				"content1": "Bergabung ke rapat di ThinkSmart Controller, lalu klik",
+				"content2": "untuk mulai membagikan dengan peserta di lokasi langsung dan online."
+			},
+			{
+				"title": "Langkah 3",
+				"content1": "Klik",
+				"content2": "dan cabut dari konektor HDMI-in untuk berhenti berbagi."
+			}
+		]
+	},
+	"faqs": {
+		"title": "FAQ ThinkSmart One",
+		"content1": "Beberapa pertanyaan yang sering diajukan disertakan sebagai referensi Anda. Untuk informasi selengkapnya, kunjungi",
+		"content2": "https://smartsupport.lenovo.com/",
+		"content3": ", atau hubungi spesialis dukungan profesional Lenovo di ",
+		"content4": "https://lenovosmartofficeservices.com/support",
+		"faqsList": [
+			{
+				"title": "Bagaimana cara menemukan panduan penerapan perangkat keras atau perangkat lunak?",
+				"content": ["Untuk konfigurasi perangkat keras dan perangkat lunak, buka:\u00A0\u00A0<a href='https://download.lenovo.com/pccbbs/pubs/thinksmart_one_guide/story.html'>https://download.lenovo.com/<br />pccbbs/pubs/thinksmart_one_guide/story.html</a> atau baca panduan di bagian bawah halaman ini."]
+			},
+			{
+				"title": "Apakah saya dapat menginstal aplikasi rapat lainnya di ThinkSmart One?",
+				"content": ["Tidak. ThinkSmart One didesain hanya untuk Microsoft Teams Rooms atau Zoom Rooms. Tidak disarankan untuk menginstal aplikasi rapat atau aplikasi lainnya di ThinkSmart One."]
+			},
+            {
+                "title": "Bagaimana cara beralih dari akun MTR ke akun Admin?",
+                "content": [
+                    "Untuk beralih dari akun MTR ke akun administrator:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Buka halaman Pengaturan MTR.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Pilih <b>Pengaturan Windows</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Pilih <b>Administrator</b> lalu masukkan kata sandi administrator.</p><br />",
+                    "Untuk beralih dari akun administrator ke akun MTR:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Buka menu <b>Mulai</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Pilih <b>Administrator</b> → <b>Keluar</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Pilih <b>Skype</b> → <b>Masuk</b>.</p>"
+                ]
+            },
+            {
+                "title": "Bagaimana cara beralih antara akun Zoom Rooms dan akun Admin?",
+                "content": [
+                    "Untuk beralih dari akun Zoom Rooms ke akun administrator:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Dari menu utama, pilih <b>Settings</b> (Pengaturan) → <b>Room</b> (Ruang) → <b>Windows Settings</b> (Pengaturan Windows).</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Masukkan kode sandi Room (Ruang) dan pilih <b>Continue</b> (Lanjutkan).</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Pilih <b>ZoomRoomsAdmin</b> (Admin Zoom Rooms) dan masuk dengan kata sandi administrator.</p><br />",
+                    "Untuk beralih dari akun administrator ke akun Zoom Rooms:",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A01.\u00A0\u00A0Buka menu <b>Mulai</b>.</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A02.\u00A0\u00A0Pilih <b>ZoomRoomsAdmin</b> (Admin Zoom Rooms) → <b>Sign out</b> (Keluar).</p>",
+                    "<p>\u00A0\u00A0\u00A0\u00A0\u00A0\u00A03.\u00A0\u00A0Pilih <b>ZoomRooms</b> → <b>Sign in</b> (Masuk).</p>"
+                ]
+            }
+		]
+	}
+}
